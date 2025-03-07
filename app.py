@@ -1,2 +1,1 @@
-a = 0
-# wownnnN
+print("Example for git")
